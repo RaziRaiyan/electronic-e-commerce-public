@@ -1,6 +1,8 @@
-#  Ecommerce Platform
+# Electrics eCommerce Platform
 
 > eCommerce platform built with the MERN stack & Redux.
+
+![screenshot](https://github.com/RaziRaiyan/electronic-e-commerce-public/blob/master/uploads/home_screen.png)
 
 ## Features
 
